@@ -11,6 +11,8 @@
 
 <form:form method="POST" commandName="user">
 	<table>
+		<tr> <td> Submit the form detatils </td> <br> <br>
+                </tr>
 		<tr>
 			<td>User Name :</td>
 			<td><form:input path="name" /></td>
