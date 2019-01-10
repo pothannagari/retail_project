@@ -9,6 +9,7 @@
 </head>
 <body>
 
+
 <form:form method="POST" commandName="user">
 	<table>
 		<tr> <td> <b> Submit the form detatils </b> </td> <br> <br>
