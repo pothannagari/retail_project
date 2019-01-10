@@ -11,7 +11,7 @@
 
 <form:form method="POST" commandName="user">
 	<table>
-		<tr> <td> Submit the form detatils </td> <br> <br>
+		<tr> <td> <b> Submit the form detatils </b> </td> <br> <br>
                 </tr>
 		<tr>
 			<td>User Name :</td>
